@@ -1,1 +1,56 @@
+JOB CARD 01 
 
+Topic: From Blocks to Thinking
+CS-1202 · Programming in Python · Foundations
+
+1. Introduction
+
+Programming starts with logical thinking. Before writing Python code, we learn to break a task into a fixed sequence of operations, just like a manufacturing route sheet.
+
+2. Why Python for Production Engineering?
+
+Python can be used for:
+
+Cycle-time data analysis
+Quality/inspection logs
+Controlling or monitoring machines and jigs
+3. Algorithm
+
+An algorithm is a step-by-step sequence of clear instructions to solve a problem.
+
+Example: Manufacturing a part:
+Raw material → Cutting → Drilling → Finishing → Inspection
+
+4. Scratch Programming
+
+Scratch uses colourful blocks to create programs.
+
+Each block represents an operation.
+Blocks are arranged in sequence.
+The program can be run using the green flag.
+It helps beginners understand programming logic visually.
+5. Input → Process → Output
+
+Every basic program can be understood as:
+
+Input → Process → Output
+
+Manufacturing example:
+Raw material → Manufacturing operations → Finished part
+
+6. Sequence
+
+A sequence means performing instructions in the correct order.
+
+Example:
+Boil water → Add tea → Add milk → Add sugar → Serve
+
+Changing the order may produce a wrong result.
+
+7. Debugging
+
+Debugging means finding and correcting mistakes in a program or sequence.
+
+8. Key Takeaway
+
+Programming is similar to process planning: both require clear, ordered and unambiguous steps. Learning this logic in Scratch builds the foundation for writing Python programs.
